@@ -1,9 +1,9 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
-## DATE: 27-09-2024
+### DATE: 27-09-2024
 ### NAME : HARIPRASHAAD RA
-### REGISTER NO : 2122230060
+### REGISTER NO : 212223040060
 
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
